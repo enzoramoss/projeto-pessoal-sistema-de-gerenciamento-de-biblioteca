@@ -1,0 +1,13 @@
+{
+  "name": "projetopessoal-sistema-de-gerenciamento-de-biblioteca",
+  "version": "1.0.0",
+  "description": "Sistema de Gerenciamento de Biblioteca com testes unitários em Jest",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
